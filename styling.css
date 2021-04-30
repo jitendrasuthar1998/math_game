@@ -154,3 +154,10 @@ html{
     z-index: 2;
     display: none;
 }
+
+.footer{
+    height: 50px;
+    background: linear-gradient(#F6F390, #D5D533);
+    padding: 10px 30px;
+    margin-top: 15px;
+}
